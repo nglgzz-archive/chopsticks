@@ -534,7 +534,7 @@ plt.show()
 
 
 
-![png](https://raw.githubusercontent.com/nglgzz/ndda_project0/master/scatterplot.png)
+![png](https://raw.githubusercontent.com/nglgzz/chopsticks/master/scatterplot.png)
 
 
 #### 6. Based on the scatterplot created from the code above, interpret the relationship you see. What do you notice?
